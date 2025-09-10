@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst in Training** | Transitioning from business to tech through intensive certification at **Epicode**
 
-🌍 Based in **Sezze, Italy** | Targeting opportunities in **Switzerland** (Canton Ticino) and remote roles
+🌍 Based in **Italy**
 
 ---
 
@@ -10,9 +10,9 @@
 
 ### 📊 **Data Analysis Journey** 
 Currently in a 6-month intensive program mastering:
-- **Excel** (Advanced) ✅ Module 1 Complete
-- **SQL** (In Progress) 
-- **Python** (Pandas, NumPy) - Starting soon
+- **Excel** (Advanced) (In Progress)
+- **SQL**
+- **Python** (Pandas, NumPy)
 - **Power BI** + Microsoft PL-300 Certification
 - **Google Looker Studio**
 
@@ -46,7 +46,6 @@ Currently in a 6-month intensive program mastering:
 ## 🎯 Career Goals
 
 - **Short-term:** Complete Epicode certification and land first data analyst role
-- **Geographic focus:** Swiss companies (Canton Ticino) for optimal work-life balance
 - **Skills-based hiring:** Targeting companies that value competency over traditional credentials
 - **Industry interest:** Business intelligence, financial services, consulting
 
