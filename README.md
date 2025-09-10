@@ -62,8 +62,9 @@ Currently in a 6-month intensive program mastering:
 ## 📊 GitHub Activity
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSanthanam&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Languages-Coming%20Soon-blue?style=for-the-badge&logo=github&logoColor=white" alt="Languages Coming Soon"/>
+</div>
 ---
 ### 💭 Currently Learning
 *"Transforming business insights into data-driven solutions, one Python script at a time."*
@@ -71,4 +72,3 @@ Currently in a 6-month intensive program mastering:
 ---
 [![](https://visitcount.itsvg.in/api?id=JonathanSanthanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
