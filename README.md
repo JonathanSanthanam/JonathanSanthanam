@@ -72,9 +72,3 @@ Currently in a 6-month intensive program mastering:
 [![](https://visitcount.itsvg.in/api?id=JonathanSanthanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-### 💭 Currently Learning
-*"Transforming business insights into data-driven solutions, one Python script at a time."*
-
----
-[![](https://visitcount.itsvg.in/api?id=jonathansanthanam&icon=0&color=0)](https://visitcount.itsvg.in)
