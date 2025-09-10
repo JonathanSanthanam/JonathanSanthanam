@@ -61,11 +61,17 @@ Currently in a 6-month intensive program mastering:
 
 ## 📊 GitHub Activity
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Activity
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSanthanam&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_ACTUAL_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+### 💭 Currently Learning
+*"Transforming business insights into data-driven solutions, one Python script at a time."*
+
+---
+[![](https://visitcount.itsvg.in/api?id=JonathanSanthanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
