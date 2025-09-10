@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jonathan
 
-🎯 **Data Analyst in Training** | Transitioning from business to tech through intensive certification at **Epicode**
+🎯 **Data Analyst in Training** | Transitioning from security to tech through intensive certification at **Epicode**
 
 🌍 Based in **Italy**
 
