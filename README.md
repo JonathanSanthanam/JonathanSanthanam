@@ -65,10 +65,13 @@ Currently in a 6-month intensive program mastering:
 <div align="center">
   <img src="https://img.shields.io/badge/Languages-Coming%20Soon-blue?style=for-the-badge&logo=github&logoColor=white" alt="Languages Coming Soon"/>
 </div>
+
 ---
+
 ### 💭 Currently Learning
 *"Transforming business insights into data-driven solutions, one Python script at a time."*
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=JonathanSanthanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
