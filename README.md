@@ -60,8 +60,6 @@ Currently in a 6-month intensive program mastering:
 ---
 
 ## 📊 GitHub Activity
-
-## 📊 GitHub Activity
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSanthanam&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
