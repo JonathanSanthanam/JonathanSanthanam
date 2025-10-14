@@ -11,7 +11,7 @@
 ### 📊 **Data Analysis Journey** 
 Currently in a 6-month intensive program mastering:
 - **Excel** (Advanced) 
-- **SQL** (In Progress)
+- **SQL** (IN PROGRESS)
 - **Python** (Pandas, NumPy)
 - **Power BI** + Microsoft PL-300 Certification
 - **Google Looker Studio**
