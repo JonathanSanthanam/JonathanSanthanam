@@ -18,10 +18,25 @@ Currently in a 6-month intensive program mastering:
 
 🛠️ Project Experience
 
-Multi-AI Orchestration Architecture - Designing and managing a 19-specialist AI agent system (Claude Code, Gemini 2.5 Pro, Dyad) with parallel deployment, task coordination, and efficiency optimization protocols
-Complex Web Application Development - Directing development of comprehensive application from concept to near-completion including payment processing (Stripe), SMS systems (Twilio), database architecture, cloud storage (Cloudflare R2), and infrastructure setup
-Advanced Testing & Quality Assurance - Implementing comprehensive testing including mobile simulators, localhost real-time development, and cross-platform validation
-Technical Project Leadership - Successfully managing first web application project using sophisticated development methodologies, coordinated deployment strategies, and professional documentation standards
+- Multi-AI Orchestration
+Designed and managed a system of 20 specialized AI agents (Claude Code, Gemini 2.5 Pro, Dyad), handling parallel workflows, coordination, and efficiency optimization.
+
+- Full Web App Development
+  Led the build of a complete web application from concept to near-finish, including:
+ - Stripe payment integration
+ - Twilio SMS system
+ - Database architecture
+ - Cloudflare R2 storage
+ - Full infrastructure setup
+
+- Testing & Quality Assurance
+ - Implemented advanced testing workflows:
+ - Mobile simulators
+ - Real-time localhost debugging
+ - Cross-platform validation
+
+- Technical Project Leadership
+ - Managed my first full web application using structured development methods, coordinated deployment strategies, and professional documentation.
 
 ---
 
