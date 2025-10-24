@@ -10,7 +10,7 @@
 ### 📊 **Data Analysis Journey**  
 Currently completing a 6-month intensive program focused on:  
 - **Excel** (Advanced)  
-- **SQL** (Intermediate) <----IN PROGRESS  
+- **SQL** (Intermediate) ← IN PROGRESS  
 - **Python** (Pandas, NumPy)  
 - **Power BI** – Microsoft PL-300 Certification  
 - **Google Looker Studio**
@@ -77,6 +77,11 @@ Managed my first full web project using structured methodologies, coordinated de
 
 ---
 
+## 💭 Currently Learning  
+*"Transforming business insights into data-driven solutions, one Python script at a time."*
+
+---
+
 ## 📊 GitHub Activity
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -84,11 +89,6 @@ Managed my first full web project using structured methodologies, coordinated de
 <div align="center">
   <img src="https://img.shields.io/badge/Languages-Coming%20Soon-blue?style=for-the-badge&logo=github&logoColor=white" alt="Languages Coming Soon"/>
 </div>
-
----
-
-### 💭 Currently Learning  
-*"Transforming business insights into data-driven solutions, one Python script at a time."*
 
 ---
 
