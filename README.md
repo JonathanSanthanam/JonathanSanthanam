@@ -19,29 +19,34 @@ Currently completing a 6-month intensive program focused on:
 
 ### 🛠️ Project Experience  
 
-**Multi-AI Orchestration**  
-Designed and managed a system of 20 specialized AI agents (Claude Code, Gemini 2.5 Pro, Dyad) to coordinate workflows, automate tasks, and optimize efficiency.  
+**AI-Powered Development Workflow**  
+Architected a multi-agent AI orchestration system with 20+ specialized agents (Claude Code, Gemini 2.5 Pro, Dyad) using Model Context Protocol (MCP) servers for automated workflow management, reducing development overhead by 87% through intelligent task delegation and context management.
 
-**Full Web App Development**  
-Led the end-to-end development of a full web application — from concept to near-production — including:  
-- Stripe payment integration  
-- Twilio SMS system  
-- Database architecture  
-- Cloudflare R2 storage  
-- Full infrastructure setup  
+**Full-Stack SaaS Development**  
+Built and deployed a complete digital estate planning platform from concept to production-ready state, featuring:  
+- **Payment Processing**: Stripe integration with tiered subscriptions and installment plans
+- **Communication**: Twilio SMS automation for critical notifications
+- **Backend**: Supabase PostgreSQL with Row-Level Security (74 tables, 31 migrations)
+- **Storage**: Cloudflare R2 for encrypted file management
+- **Infrastructure**: Automated CI/CD pipeline with comprehensive testing suite (241 tests)
 
-**Testing & Quality Assurance**  
-Implemented advanced testing workflows:  
-- Mobile simulators  
-- Real-time localhost debugging  
-- Cross-platform validation  
+**Modern Development Practices**  
+- TypeScript-first architecture (355 components)
+- Mobile-responsive design with cross-platform validation
+- Real-time collaboration using MCP servers (Memory, Sequential Thinking, Filesystem)
+- Git workflow automation with custom hooks and pre-commit validation
 
-**Technical Project Leadership**  
-Managed my first full web project using structured methodologies, coordinated deployments, and professional documentation standards.  
+**AI Integration & Automation**  
+Implemented Claude Code with custom slash commands, notification hooks, and automated context management for streamlined development workflows. Built natural language interfaces for complex operations.
 
 ---
 
 ## 💻 Tech Stack
+
+**AI & Development Tools**  
+![Claude](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-FF6B35?style=for-the-badge&logo=protocol&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Data & Analytics**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,13 +54,18 @@ Managed my first full web project using structured methodologies, coordinated de
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Development & Cloud**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend & Database**  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Infrastructure**  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-**Tools & Productivity**  
+**Tools & Version Control**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
