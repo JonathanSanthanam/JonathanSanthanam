@@ -33,8 +33,17 @@ Built multiple production-ready web applications from concept to deployment, fea
 Designed and implemented a multi-agent AI orchestration system with 20+ specialized agents using Model Context Protocol (MCP) servers for automated workflow management, achieving 87% reduction in development overhead through intelligent task delegation.
 
 **Data Analysis Projects**  
-- **Sanremo Paradox Report:** Analyzed 70+ years of Italian music festival data to demonstrate that winning doesn't guarantee streaming success. Built interactive Looker Studio dashboard revealing that 86% of Top 50 Spotify songs never reached the podium.
-- **Financial Analytics:** Personal finance tracking application with AI-powered transaction categorization
+
+- **Excel – COVID-19 Italy Analysis (2020-2025):**  
+  Led a team project analyzing regional COVID data (cases, recoveries, deaths, vaccinations) using Power Query and Power Pivot. Built automated data pipelines merging multiple datasets, created KPIs and ratios, and delivered printable A4 dashboards. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M1.%20Excel)
+
+- **SQL – VendiCose S.p.A. Inventory System:**  
+  Designed a relational database for a retail company managing warehouses and stores across Italy. Implemented automated monthly stock updates, restock threshold alerts, and analytical views for sales trends. Applied E/R modeling, normalization, complex JOINs and subqueries. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M2.%20SQL)
+
+- **Looker Studio – The Sanremo Paradox:**  
+  Analyzed 70+ years of Italian music festival data to demonstrate that winning doesn't guarantee streaming success. Built interactive 3-page dashboard revealing that 86% of Top 50 Spotify songs never reached the podium. [View Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
+
+- **Power BI** ← IN PROGRESS
 
 **Modern Development Practices**  
 - TypeScript-first architecture with strict type safety
