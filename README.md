@@ -79,9 +79,9 @@ Designed and implemented a multi-agent AI orchestration system with 20+ speciali
 ## 🎯 Career Goals
 
 - **Target Role:** Business Analyst / Data Analyst  
-- **Location:** Ticino (Switzerland) or remote  
+- **Location:** Remote-first | Open to relocation  
 - **Focus Areas:** Business intelligence, financial analytics, data-driven decision making  
-- **Approach:** Skills-based hiring – let the work speak for itself  
+- **Approach:** Skills-based hiring – let the work speak for itself
 
 ---
 
