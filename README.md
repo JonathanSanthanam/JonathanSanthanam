@@ -19,33 +19,33 @@ Currently completing a 6-month intensive program focused on:
 
 ---
 
-### 🛠️ Project Experience  
+### 🛠️ Project Experience
 
-**Full-Stack SaaS Development**  
-Built multiple production-ready web applications from concept to deployment, featuring:  
+**Full-Stack SaaS Development**
+Built multiple production-ready web applications from concept to deployment, featuring:
 - **Payment Processing:** Stripe integration with subscription tiers and installment plans
 - **Authentication:** Multi-provider auth with email verification and 2FA
 - **Backend:** Supabase PostgreSQL with Row-Level Security (70+ tables)
 - **Storage:** Cloudflare R2 for encrypted file management
 - **Testing:** Comprehensive test suites with 200+ tests
 
-**AI-Powered Development Workflow**  
+**AI-Powered Development Workflow**
 Designed and implemented a multi-agent AI orchestration system with 20+ specialized agents using Model Context Protocol (MCP) servers for automated workflow management, achieving 87% reduction in development overhead through intelligent task delegation.
 
-**Data Analysis Projects**  
-
-- **Excel – COVID-19 Italy Analysis (2020-2025):**  
+**Data Analysis Projects**
+- **Excel – COVID-19 Italy Analysis (2020-2025):**
   Led a team project analyzing regional COVID data (cases, recoveries, deaths, vaccinations) using Power Query and Power Pivot. Built automated data pipelines merging multiple datasets, created KPIs and ratios, and delivered printable A4 dashboards. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M1.%20Excel)
 
-- **SQL – VendiCose S.p.A. Inventory System:**  
+- **SQL – VendiCose S.p.A. Inventory System:**
   Designed a relational database for a retail company managing warehouses and stores across Italy. Implemented automated monthly stock updates, restock threshold alerts, and analytical views for sales trends. Applied E/R modeling, normalization, complex JOINs and subqueries. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M2.%20SQL)
 
-- **Looker Studio – The Sanremo Paradox:**  
+- **Looker Studio – The Sanremo Paradox:**
   Analyzed 70+ years of Italian music festival data to demonstrate that winning doesn't guarantee streaming success. Built interactive 3-page dashboard revealing that 86% of Top 50 Spotify songs never reached the podium. [View Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
 
-- **Power BI** ← IN PROGRESS
+- **Power BI – Analyst Job Market Dashboard (Capstone):**
+  Analyzed 209K+ job listings comparing Business Analyst vs Data Analyst roles using Glassdoor data. Built a full data pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, UNION of 2 datasets) → Power BI star schema (Fact_Jobs + 3 dimension tables) with 30+ DAX measures. Delivered a 6-page interactive dashboard featuring Executive Summary, BA vs DA Comparison, Salary Deep Dive, Skills Analysis, Geographic Analysis, and data-driven Career Recommendations. [View Project](LINK_REPO)
 
-**Modern Development Practices**  
+**Modern Development Practices**
 - TypeScript-first architecture with strict type safety
 - Mobile-responsive design with cross-platform validation
 - Real-time collaboration using MCP servers
