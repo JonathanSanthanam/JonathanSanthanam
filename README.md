@@ -45,6 +45,9 @@ Designed and implemented a multi-agent AI orchestration system with 20+ speciali
 - **Power BI – Analyst Job Market Dashboard (Capstone):**
   Analyzed 209K+ job listings comparing Business Analyst vs Data Analyst roles using Glassdoor data. Built a full data pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, UNION of 2 datasets) → Power BI star schema (Fact_Jobs + 3 dimension tables) with 30+ DAX measures. Delivered a 6-page interactive dashboard featuring Executive Summary, BA vs DA Comparison, Salary Deep Dive, Skills Analysis, Geographic Analysis, and data-driven Career Recommendations. [View Project](LINK_REPO)
 
+- **Power BI – The Profit Machine — Financial KPI Dashboard:**
+  Built a full financial P&L dashboard analyzing $117.9M in revenue across 5 countries, 5 segments, and 6 products. Full pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, What-If simulation) → Power BI star schema (Fact_Sales + 3 dimension tables + standalone Fact_Budget) with 20+ DAX measures. Delivered a 7-page interactive dashboard covering P&L Waterfall, Segment & Country profitability, Cost analysis, Budget vs Actual variance, Pricing strategy, and CFO executive summary. Key finding: Enterprise is the only loss-making segment (-3.3%) while COGS at 85.7% is the real margin killer — not discounts. [View Project](https://github.com/JonathanSanthanam/Portfolio/tree/main/02-Financial_KPI_Dashboard)
+
 **Modern Development Practices**
 - TypeScript-first architecture with strict type safety
 - Mobile-responsive design with cross-platform validation
