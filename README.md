@@ -8,14 +8,12 @@
 ## 🚀 What I'm Building
 
 ### 📊 Data Analysis Journey  
-Currently completing a 6-month intensive program focused on:  
+Completed a 6-month intensive program focused on:  
 - **Excel** (Advanced)  
 - **SQL** (Intermediate)   
 - **Python** (Pandas, NumPy)   
 - **Google Looker Studio** 
 - **Power BI** 
-
-📜 **Upcoming Certification:** Microsoft PL-300 (Power BI Data Analyst)
 
 ---
 
