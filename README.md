@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./Banner.png)
 # Hi there! 👋 I'm Jonathan
 
 ### 📊 Data & Business Analyst · SQL · Power BI · Excel · Python
