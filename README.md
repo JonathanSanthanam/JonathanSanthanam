@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # Hi there! 👋 I'm Jonathan
 
 ### 📊 Data & Business Analyst · SQL · Power BI · Excel · Python
