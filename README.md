@@ -1,62 +1,50 @@
 # Hi there! 👋 I'm Jonathan
 
-🎯 **Data Analyst in Training** | Transitioning from 21 years in operations to tech through an intensive **Epicode certification program**  
-🌍 Based in **Rome, Italy** | Open to remote work & relocation for the right opportunity
+### 📊 Data & Business Analyst · SQL · Power BI · Excel · Python
+**Turning raw data into decision-ready insights.**
+
+🌍 Rome / Latina, Italy · Remote · Hybrid · On-site &nbsp;|&nbsp; 🟢 Open to opportunities · EN / IT
 
 ---
 
-## 🚀 What I'm Building
+## 👤 About
 
-### 📊 Data Analysis Journey  
-Completed a 6-month intensive program focused on:  
-- **Excel** (Advanced)  
-- **SQL** (Intermediate)   
-- **Python** (Pandas, NumPy)   
-- **Google Looker Studio** 
-- **Power BI** 
+For **21 years** I ran security operations at a diplomatic mission — monitoring and analyzing real-time data streams to spot the single anomaly that didn't belong. Precision wasn't optional; **reading data to find what matters was the job.**
+
+Now I apply that same operational discipline to analytics. I completed a **Master in Data Analytics at Epicode** — building hands-on skills in **SQL, Python (Pandas / NumPy), Power BI (DAX, star schema), ETL pipelines and Looker Studio** on real datasets. I don't stop at the numbers: I've also **built and shipped live web apps** (React, TypeScript, Supabase) — including **2eazy**, a product of my own — **using AI as a productivity multiplier**. That gave me a concrete grasp of how data actually flows through systems and turns into decisions.
 
 ---
 
-### 🛠️ Project Experience
+## 📊 Featured Analytics Projects
 
-**Full-Stack SaaS Development**
-Built multiple production-ready web applications from concept to deployment, featuring:
-- **Payment Processing:** Stripe integration with subscription tiers and installment plans
-- **Authentication:** Multi-provider auth with email verification and 2FA
-- **Backend:** Supabase PostgreSQL with Row-Level Security (70+ tables)
-- **Storage:** Cloudflare R2 for encrypted file management
-- **Testing:** Comprehensive test suites with 200+ tests
+**🏆 Power BI – Analyst Job Market Dashboard (Capstone)**
+Analyzed **209K+ job listings** comparing Business Analyst vs Data Analyst roles (Glassdoor/Kaggle). Pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, UNION of 2 datasets) → Power BI **star schema** (Fact_Jobs + 3 dimensions) with **30+ DAX measures**. 6-page dashboard: Executive Summary, BA vs DA Comparison, Salary Deep Dive, Skills & Geographic Analysis, data-driven Career Recommendations. **Key finding: Excel (57%) and SQL (42%) are the most-requested skills.** [[View Project](https://github.com/JonathanSanthanam/Portfolio/tree/main/01-Job-Market-Analysis)
 
-**AI-Powered Development Workflow**
-Designed and implemented a multi-agent AI orchestration system with 20+ specialized agents using Model Context Protocol (MCP) servers for automated workflow management, achieving 87% reduction in development overhead through intelligent task delegation.
+**💰 Power BI – The Profit Machine · Financial KPI Dashboard**
+Full P&L dashboard analyzing **$117.9M revenue** across 5 countries, 5 segments, 6 products. Pipeline: Excel → MySQL (CTEs, Window Functions, What-If simulation) → Power BI star schema (Fact_Sales + standalone Fact_Budget) with **20+ DAX measures**. 7-page dashboard: P&L Waterfall, Segment & Country profitability, Cost analysis, Budget-vs-Actual variance, Pricing strategy, CFO executive summary. **Key finding: Enterprise is the only loss-making segment (−3.3%); COGS at 85.7% is the real margin killer — not discounts.** [View Project](https://github.com/JonathanSanthanam/Portfolio/tree/main/02-Financial_KPI_Dashboard)
 
-**Data Analysis Projects**
-- **Excel – COVID-19 Italy Analysis (2020-2025):**
-  Led a team project analyzing regional COVID data (cases, recoveries, deaths, vaccinations) using Power Query and Power Pivot. Built automated data pipelines merging multiple datasets, created KPIs and ratios, and delivered printable A4 dashboards. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M1.%20Excel)
+**🎵 Looker Studio – The Sanremo Paradox**
+Analyzed **70+ years** of Italian music-festival data vs streaming performance. Interactive 3-page dashboard revealing that **86% of Top-50 Spotify songs never reached the podium** — winning ≠ streaming success. [View Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
 
-- **SQL – VendiCose S.p.A. Inventory System:**
-  Designed a relational database for a retail company managing warehouses and stores across Italy. Implemented automated monthly stock updates, restock threshold alerts, and analytical views for sales trends. Applied E/R modeling, normalization, complex JOINs and subqueries. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M2.%20SQL)
+**🗃️ SQL – VendiCose S.p.A. Inventory System**
+Relational database for a retail chain across Italy: automated monthly stock updates, restock-threshold alerts, analytical views for sales trends. E/R modeling, normalization, complex JOINs & subqueries. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M2.%20SQL)
 
-- **Looker Studio – The Sanremo Paradox:**
-  Analyzed 70+ years of Italian music festival data to demonstrate that winning doesn't guarantee streaming success. Built interactive 3-page dashboard revealing that 86% of Top 50 Spotify songs never reached the podium. [View Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
+**📈 Excel – COVID-19 Italy Analysis (2020-2025)**
+Team project on regional COVID data (cases, recoveries, deaths, vaccinations) with Power Query & Power Pivot: automated pipelines merging multiple datasets, KPIs & ratios, printable A4 dashboards. [View Project](https://github.com/JonathanSanthanam/Epicode-Data-Analyst/tree/main/M1.%20Excel)
 
-- **Power BI – Analyst Job Market Dashboard (Capstone):**
-  Analyzed 209K+ job listings comparing Business Analyst vs Data Analyst roles using Glassdoor data. Built a full data pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, UNION of 2 datasets) → Power BI star schema (Fact_Jobs + 3 dimension tables) with 30+ DAX measures. Delivered a 6-page interactive dashboard featuring Executive Summary, BA vs DA Comparison, Salary Deep Dive, Skills Analysis, Geographic Analysis, and data-driven Career Recommendations. [View Project](LINK_REPO)
+---
 
-- **Power BI – The Profit Machine — Financial KPI Dashboard:**
-  Built a full financial P&L dashboard analyzing $117.9M in revenue across 5 countries, 5 segments, and 6 products. Full pipeline: Excel exploration → MySQL cleaning & analytics (CTEs, Window Functions, What-If simulation) → Power BI star schema (Fact_Sales + 3 dimension tables + standalone Fact_Budget) with 20+ DAX measures. Delivered a 7-page interactive dashboard covering P&L Waterfall, Segment & Country profitability, Cost analysis, Budget vs Actual variance, Pricing strategy, and CFO executive summary. Key finding: Enterprise is the only loss-making segment (-3.3%) while COGS at 85.7% is the real margin killer — not discounts. [View Project](https://github.com/JonathanSanthanam/Portfolio/tree/main/02-Financial_KPI_Dashboard)
+## 🛠️ Beyond Analytics — I Also Ship Software
 
-**Modern Development Practices**
-- TypeScript-first architecture with strict type safety
-- Mobile-responsive design with cross-platform validation
-- Real-time collaboration using MCP servers
-- Git workflow automation with custom hooks and pre-commit validation
+To understand how data flows end-to-end, I build and deploy real products **using AI as a productivity multiplier**:
+- **Full-stack SaaS** — Stripe (subscriptions + installments), multi-provider auth (email verification + 2FA), Supabase **PostgreSQL with Row-Level Security** (70+ tables), Cloudflare R2, 200+ tests.
+- **AI-assisted workflow** — a multi-agent orchestration system over **Model Context Protocol (MCP)**, cutting development overhead by ~87% through intelligent task delegation.
 
 ---
 
 ## 💻 Tech Stack
 
-**Data & Analytics**  
+**Data & Analytics**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -64,48 +52,52 @@ Designed and implemented a multi-agent AI orchestration system with 20+ speciali
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**AI & Development Tools**  
+**AI (productivity multiplier)**
 ![Claude](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-FF6B35?style=for-the-badge&logo=protocol&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend & Database**  
+**Backend & Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cloud & Infrastructure**  
+**Cloud & Infrastructure**
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-**Tools & Version Control**  
+**Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎯 Career Goals
+## 🎓 Certifications
 
-- **Target Role:** Business Analyst / Data Analyst  
-- **Location:** Remote-first | Open to relocation  
-- **Focus Areas:** Business intelligence, financial analytics, data-driven decision making  
-- **Approach:** Skills-based hiring – let the work speak for itself
+Microsoft **Power BI** (Epicode, 2026) · **Looker Studio** (M5) · **SQL / RDBMS** (M3) · **Excel & Pivot Tables** (M2) · **AI & GitHub Copilot** Course · DataCamp **Intermediate SQL**
+
+---
+
+## 🎯 Looking For
+
+**Junior Data / Business Analyst** — remote, hybrid or on-site in the **Rome / Latina** area. I bring analytical rigour, attention to detail, and two decades of performing under pressure — this time with **SQL and Power BI** in hand.
+*Focus: business intelligence, financial analytics, data-driven decision making · Skills-based hiring — let the work speak for itself.*
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-santhanam)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathan.santhanam@gmail.com)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JonSa80)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-santhanam)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathan.santhanam@gmail.com)
 
 ---
 
 ## 📊 GitHub Activity
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)
 
 ---
 
