@@ -97,7 +97,7 @@ Microsoft **Power BI** (Epicode, 2026) · **Looker Studio** (M5) · **SQL / RDBM
 
 ## 📊 GitHub Activity
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSanthanam&show_icons=true&theme=vue-dark&hide_border=false&hide_rank=true)
 
 ---
 
